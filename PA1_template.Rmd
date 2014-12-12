@@ -1,5 +1,5 @@
 ---
-title: "Peer1"
+title: "PA1_template"
 output: html_document
 ---
 
@@ -147,3 +147,4 @@ xyplot(
     layout=c(1,2)
 )
 ```
+
